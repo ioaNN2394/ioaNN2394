@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Quimbayo</h1>
-<h3 align="center">💬Junion Software Developer. 🌱 I have experience in software programming especially in java, I enjoy programming and solving those problems that we all know that arise at some point. I have skills such as teamwork, leadership as well as a great determination and focus when performing any task that comes my way, I am always open to learning, I am passionate about being in this technological world.</h3>
+<h3 align="center">💬Junion Software Developer. 🌱 I have experience in software programming especially in java and python, I enjoy programming and solving those problems that we all know that arise at some point. I have skills such as teamwork, leadership as well as a great determination and focus when performing any task that comes my way, I am always open to learning, I am passionate about being in this technological world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ioann2394&label=Profile%20views&color=0e75b6&style=flat" alt="ioann2394" /> </p>
 
