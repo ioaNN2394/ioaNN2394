@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Johan Quimbayo</h1>
-<h3 align="center">💬Junion Software Developer. 🌱 I have experience in software programming especially in java and python, I enjoy programming and solving those problems that we all know that arise at some point. I have skills such as teamwork, leadership as well as a great determination and focus when performing any task that comes my way, I am always open to learning, I am passionate about being in this technological world.</h3>
+<h3 align="center">👨‍💻 Junior Software Developer 🚀
+
+Hello, I'm a Junior Software Developer with a passion for problem-solving and a knack for programming in Java and Python. I thrive on tackling the challenges inherent in software development and find joy in crafting elegant solutions.
+
+Here's what sets me apart:
+
+🔧 Technical Expertise: Proficient in Java and Python, I bring hands-on experience in software programming to the table.
+
+🤝 Collaborative Spirit: I excel in team environments, leveraging strong communication skills to collaborate effectively with colleagues and stakeholders.
+
+🌟 Leadership Qualities: With a natural inclination for leadership, I'm adept at guiding teams towards successful project outcomes.
+
+🎯 Determination and Focus: Known for my unwavering determination and laser-sharp focus, I tackle tasks with tenacity and precision.
+
+📚 Continuous Learner: I'm committed to lifelong learning, constantly seeking opportunities to expand my knowledge and stay abreast of emerging technologies.
+
+💡 Passionate About Technology: Immersed in the ever-evolving landscape of technology, I'm fueled by a deep passion for innovation and progress.
+
+Let's build something remarkable together! 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ioann2394&label=Profile%20views&color=0e75b6&style=flat" alt="ioann2394" /> </p>
 
