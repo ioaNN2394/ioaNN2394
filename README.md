@@ -1,5 +1,3 @@
-![1393286099fd42063d7950db74597e2f_w200](https://github.com/ioaNN2394/ioaNN2394/assets/114038390/6d747fb1-d64f-4d6d-888b-cc6800705703)
-
 <h1 align="center">Hi 👋, I'm Johan Quimbayo</h1>
 <h3 align="center">👨‍💻 Junior Software Developer 🚀
 
