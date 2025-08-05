@@ -15,18 +15,6 @@ I am a passionate and results-driven Backend Developer with a primary focus on *
 
 As a dedicated team player and a firm believer in lifelong learning, I am always eager to collaborate with others and stay ahead of the curve in the ever-evolving world of technology. My goal is to contribute to meaningful projects while continuing to grow as a developer.
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ioann2394&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ioann2394's github stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioann2394&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="ioann2394's top languages" />
-</p>
-
----
 
 ### 🛠️ My Backend Stack
 
@@ -50,7 +38,20 @@ As a dedicated team player and a firm believer in lifelong learning, I am always
 ### 📫 Connect with Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/johan-sebastian-quimbayo-4a65b0274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+--
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ioann2394&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ioann2394's github stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioann2394&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="ioann2394's top languages" />
+</p>
+
+--
