@@ -17,7 +17,7 @@ As a dedicated team player and a firm believer in lifelong learning, I am always
 
 ---
 
-### 📊 My GitHub Stats & Widgets
+### 📊 My GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ioann2394&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ioann2394's github stats" />
