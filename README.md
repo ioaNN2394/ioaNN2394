@@ -44,7 +44,7 @@ As a dedicated team player and a firm believer in lifelong learning, I am always
   </a>
 </p>
 
---
+---
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -54,4 +54,4 @@ As a dedicated team player and a firm believer in lifelong learning, I am always
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioann2394&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="ioann2394's top languages" />
 </p>
 
---
+---
